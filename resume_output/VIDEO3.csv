@@ -1,0 +1,5 @@
+;person;genre;age;angry;disgusted;feareful;happy;neutral;sad;surprised
+0;['BAROU'];Femme;22.0;0.0;0.0;0.0;0.63;0.32;0.05;0.0
+1;['CHAREYRE'];Femme;15.0;0.0;0.0;0.0;0.0;0.63;0.37;0.0
+2;['LE_PADELLEC'];Homme;28.0;0.05;0.0;0.37;0.0;0.53;0.05;0.0
+3;['PICARD'];Femme;36.0;0.0;0.0;0.0;1.0;0.0;0.0;0.0
